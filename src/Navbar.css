@@ -8,14 +8,17 @@
     font-size: 20px;
     margin: 0;
 }
-
 .homebtn{
     border-right: 1px solid black;
     width: 50%;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
 
 .pastesbtn{
     width: 50%;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
